@@ -1,0 +1,6 @@
+{
+  "name": "رواسي للمعدات",
+  "description": "موقع احترافي لتأجير المعدات الثقيلة في السعودية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
